@@ -2,11 +2,11 @@
 ## CUSP London Data Drive 2019 with the London Ambulance Service
 
 #### Group Members:
-Jiaxu Wu
-Kent Pan
-Jack Humble
-Aparajita Haldar
-Nadezda Leonova
+Jiaxu Wu,
+Kent Pan,
+Jack Humble,
+Aparajita Haldar,
+Nadezda Leonova,
 Matteo Mazzamurro
 
 #### Research Questions:
