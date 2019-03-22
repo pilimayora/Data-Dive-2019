@@ -16,10 +16,10 @@ Matteo Mazzamurro
 - Can live traffic information help determine best choice of ambulance for dispatch?
 
 #### Different phases of the ambulance trip where real-time data is beneficial:
-- Decide which ambulance to dispatch (activation time) _we identify (spatially and temporally) in which situations this choice is most crucial_
-- Travel to scene of incident (mobilisation & running time) _we identify (spatially and temporally) in which situations this is most affected_
-- On-scene & hospital time _needs hospital staff/resource availability real-time data_
-- Ambulance relocation before next dispatch (idle time) _we demonstrate some ideas to compute this as future work_
+- Decide which ambulance to dispatch (activation time) - _we identify (spatially and temporally) in which situations this choice is most crucial_
+- Travel to scene of incident (mobilisation & running time) - _we identify (spatially and temporally) in which situations this is most affected_
+- On-scene & hospital time - _needs hospital staff/resource availability real-time data_
+- Ambulance relocation before next dispatch (idle time) - _we demonstrate some ideas to compute this as future work_
 
 #### Findings and Recommendations:
 - For long response times, primary factor is the **activation (dispatch) time**, which is dependent on staffing & **crew availability** (no available crews to dispatch)
